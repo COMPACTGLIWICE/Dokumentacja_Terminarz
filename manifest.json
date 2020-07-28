@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Dodawanie.html",
-          "hash": "3mXZ7eqd9O29FFsWJaLDtg=="
+          "hash": "5rAS7HTWOatpcyVZPZs5iQ=="
         }
       },
       "is_incremental": true,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Dodawanie_obj.html",
-          "hash": "hsxpL2cASDEASsd052/vxA=="
+          "hash": "gx/kfG9UTBktyxWNqbGPkg=="
         }
       },
       "is_incremental": true,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Ustawienia.html",
-          "hash": "O6OAOQRN2TUeziGUHE7uCQ=="
+          "hash": "7suJT1jyh4UXPLYdLvPRMw=="
         }
       },
       "is_incremental": true,
@@ -194,6 +194,17 @@
       "output": {
         "resource": {
           "relative_path": "images/Terminarz16.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Terminarz17.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "images/Terminarz17.PNG"
         }
       },
       "is_incremental": false,
